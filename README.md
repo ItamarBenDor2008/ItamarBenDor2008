@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohalprogram&label=Profile%20views&color=0e75b6&style=flat" alt="sohalprogram" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sohalslayer" target="blank"><img src="https://img.shields.io/twitter/follow/sohalslayer?logo=twitter&style=for-the-badge" alt="sohalslayer" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohalprogram&label=Profile%20views&color=0e75b6&style=flat" alt="sohalprogram" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sohalslayer" target="blank"><img src="https://img.shields.io/twitter/follow/sohalslayer?logo=twitter&style=for-the-badge" alt="sohalslayer" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
