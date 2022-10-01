@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm SohalProgram</h1>
 <h3 align="center">Computer science, physics, software engineering, programming, robotics, just things that a normal guy likes</h3>
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/522450800958504962?hideStatus=false)](https://discord.com/users/522450800958504962)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohalprogram&label=Profile%20views&color=0e75b6&style=flat" alt="sohalprogram" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sohalslayer" target="blank"><img src="https://img.shields.io/twitter/follow/sohalslayer?logo=twitter&style=for-the-badge" alt="sohalslayer" /></a> </p>
