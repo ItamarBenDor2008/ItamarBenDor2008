@@ -18,11 +18,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohalProgram&theme=dark&langs_count=8&layout=demo)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohalprogram&show_icons=true&locale=en&layout=compact" alt="sohalprogram" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohalprogram&show_icons=true&&theme=dark&locale=en&layout=compact" alt="sohalprogram" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohalprogram&show_icons=true&locale=en" alt="sohalprogram" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohalprogram&show_icons=true&locale=en&theme=dark&" alt="sohalprogram" /></p>
 
 
 
