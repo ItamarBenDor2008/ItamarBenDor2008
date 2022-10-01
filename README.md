@@ -16,6 +16,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohalprogram&show_icons=true&locale=en&layout=compact" alt="sohalprogram" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohalprogram&show_icons=true&locale=en" alt="sohalprogram" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohalprogram&" alt="sohalprogram" /></p>
