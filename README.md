@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/sohalslayer" target="blank"><img src="https://img.shields.io/twitter/follow/sohalslayer?logo=twitter&style=for-the-badge" alt="sohalslayer" /></a> </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/522450800958504962?hideStatus=false)](https://discord.com/users/522450800958504962)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sohalslayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohalslayer" height="30" width="40" /></a>
