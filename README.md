@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ItamarBenDor2008</h1>
+<h1 align="center">Hi 👋, I'm Bendi</h1>
 <h3 align="center">Computer science, physics, software engineering, programming, robotics, just things that a normal guy likes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohalprogram&label=Profile%20views&color=0e75b6&style=flat" alt="sohalprogram" /> </p>
