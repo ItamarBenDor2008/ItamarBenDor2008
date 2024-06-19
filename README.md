@@ -22,10 +22,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohalprogram&show_icons=true&locale=en&theme=dark&" alt="sohalprogram" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItamarBenDor2008&show_icons=true&locale=en&theme=dark&" alt="ItamarBenDor2008" /></p>
 
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohalprogram&theme=dark&" alt="sohalprogram" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItamarBenDor2008&theme=dark&" alt="ItamarBenDor2008" /></p>
